@@ -1,0 +1,1 @@
+Empirical AI capstone study on the citation impact of reproducible research, building a bibliometric dataset and analysing how code/data sharing and other openness signals relate to citation outcomes.
